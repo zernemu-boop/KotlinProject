@@ -13,7 +13,7 @@ class Person{
 fun main() {
 
     var doctor = Person()
-println(doctor.name)
+    println(doctor.name)
     println(doctor.gender)
     var farmer = Person()
 
