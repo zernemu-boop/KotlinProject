@@ -33,6 +33,7 @@ fun main() {
     println(c.hasLimbs)
     println(c.isMammal)
     println(c.isHorns)
+    c.sound()
 
     println( )
 
